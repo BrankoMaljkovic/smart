@@ -1,0 +1,25 @@
+https://git-scm.com/download/win - git za instalaciju
+https://github.com/ - git hub
+https://about.gitlab.com/ - github
+https://bitbucket.org/ - isto se koristi za to
+kreirao github na biomove2014
+
+https://www.gitkraken.com/ - tools
+https://git-fork.com/ - tools
+
+
+repositories - fascikla, jedan projekat jedan repositorijum
+
+Koraci u GIT
+
+$ git clone - kopiramo url kreiranog prository u GitHub-u
+clear - brise se sve sa terminal ekrana
+konfigurisemo username i email
+$ git config --global user.name "BrankoMaljkovic"
+$ git config --global user.email "brankomaljkovic@yahoo.com"
+$ git config --list (da proverimo da li je ulistano)
+cd folder (ulazak u novi folder)
+
+$ git status (govori sta imamo od fajlova i u kom su statusu)
+
+$ git add . (zelimo da kazemo sta da sacuvamo . je sve ili navedemo fajl ili folder ime)
