@@ -42,3 +42,6 @@ $ git push origin version01 (upload branch u GIT)
 $ git pull origin version01 (kada samo u branchu moramo da kucamo origin da oslovimo glavnu liniju konekcije i naziv brancha sa kog pozivamo)
 
 <!-- Kreiranje grana uvek idemo na granu na koju spajamo pa spajamo druge grane -->
+
+$ git merge version01 (stavljam branch koji zelim da kopiram)
+$ git push (na kraju svake promene moramo da uradimo push i gurnemo to online)
