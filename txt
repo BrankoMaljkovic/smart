@@ -10,7 +10,7 @@ https://git-fork.com/ - tools
 
 repositories - fascikla, jedan projekat jedan repositorijum
 
-Koraci u GIT
+<!-- Koraci u GIT funkcije -->
 
 $ git clone - kopiramo url kreiranog prository u GitHub-u
 clear - brise se sve sa terminal ekrana
@@ -31,3 +31,9 @@ $ git push (guramo sa lokalnog na web)
 $ git pull (proveravamo da li je doslo do promene verzije online, odnosno da li je neko vrsio promene u medjuvremenu)
 
 $ git log (istorija svih logova)
+
+<!-- Kreiranje grana -->
+
+$ git branch version01 (kreiramo granu, version01 je ime grane koju kreiramo)
+$ git branch (proveravamo grane)
+$ git checkout version01 (za prebacivanje na drugu granu version01 je ime grane na koju se prebacujemo)
