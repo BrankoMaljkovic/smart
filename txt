@@ -20,6 +20,14 @@ $ git config --global user.email "brankomaljkovic@yahoo.com"
 $ git config --list (da proverimo da li je ulistano)
 cd folder (ulazak u novi folder)
 
-$ git status (govori sta imamo od fajlova i u kom su statusu)
+$ git status (govori sta imamo od fajlova i u kom su statusu crveno nije sacuvano, zeleno je odradjen add)
 
 $ git add . (zelimo da kazemo sta da sacuvamo . je sve ili navedemo fajl ili folder ime)
+
+$ git commit -m "" (lokalno cuvamo na racunaru, -m je poruka "text poruke")
+
+$ git push (guramo sa lokalnog na web)
+
+$ git pull (proveravamo da li je doslo do promene verzije online, odnosno da li je neko vrsio promene u medjuvremenu)
+
+$ git log (istorija svih logova)
