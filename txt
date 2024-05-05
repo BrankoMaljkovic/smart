@@ -37,3 +37,5 @@ $ git log (istorija svih logova)
 $ git branch version01 (kreiramo granu, version01 je ime grane koju kreiramo)
 $ git branch (proveravamo grane)
 $ git checkout version01 (za prebacivanje na drugu granu version01 je ime grane na koju se prebacujemo)
+
+$ git pull origin version01 (kada samo u branchu moramo da kucamo origin da oslovimo glavnu liniju konekcije i naziv brancha sa kog pozivamo)
